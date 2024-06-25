@@ -1,2 +1,9 @@
-# number-mirror.py
-write a program that accept the number and print the same number
+#include <stdio.h>
+
+int main(void) {
+	int n;
+	scanf("%d",&n);
+	printf("%d",n);
+}
+	
+
